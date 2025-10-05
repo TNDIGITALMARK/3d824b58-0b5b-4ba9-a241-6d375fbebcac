@@ -26,12 +26,10 @@ export function HeroSection() {
               {/* Showroom with cars image placeholder */}
               <div className="aspect-video bg-gradient-to-br from-gray-200 to-gray-300 rounded-lg overflow-hidden">
                 <img
-                  src="/api/placeholder/800/450"
-                  alt="Luxury car showroom"
+                  src="/generated/hero-showroom.jpg"
+                  alt="Luxury car dealership showroom interior with premium vehicles on display"
                   className="w-full h-full object-cover"
-                  style={{
-                    backgroundImage: "linear-gradient(135deg, #f5f5f5 0%, #e5e5e5 100%)"
-                  }}
+                  loading="eager"
                 />
               </div>
             </div>

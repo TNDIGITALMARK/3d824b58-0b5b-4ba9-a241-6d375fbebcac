@@ -9,7 +9,7 @@ const featuredVehicles = [
     model: "Accord Sport",
     year: 2024,
     price: 28995,
-    image: "/api/placeholder/400/300",
+    image: "/generated/honda-accord.jpg",
     mileage: 15420,
     transmission: "CVT",
     fuelType: "Gasoline"
@@ -20,7 +20,7 @@ const featuredVehicles = [
     model: "Camry XLE",
     year: 2024,
     price: 31200,
-    image: "/api/placeholder/400/300",
+    image: "/generated/toyota-camry.jpg",
     mileage: 12850,
     transmission: "Automatic",
     fuelType: "Gasoline"
@@ -31,7 +31,7 @@ const featuredVehicles = [
     model: "F-150 Crew Cab",
     year: 2023,
     price: 42800,
-    image: "/api/placeholder/400/300",
+    image: "/generated/ford-f150.jpg",
     mileage: 8500,
     transmission: "Automatic",
     fuelType: "Gasoline"
@@ -42,7 +42,7 @@ const featuredVehicles = [
     model: "X3 xDrive",
     year: 2024,
     price: 48500,
-    image: "/api/placeholder/400/300",
+    image: "/generated/bmw-x3.jpg",
     mileage: 5200,
     transmission: "Automatic",
     fuelType: "Gasoline"
